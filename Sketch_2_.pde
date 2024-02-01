@@ -1,0 +1,10 @@
+  String teacherName= "Tess Løvgreen";
+  int år= 365;
+  String hovedstad= "København";
+  boolean ingenFejl= true;
+  int tal1= 60*24;
+  float tal2= 22.12;
+  String laereNavn= "Hej, jeg heddder "+teacherName;
+  boolean mangeFejl= false;
+  float tal3= 2.2 + 33;
+  char bogstav= 'S';
